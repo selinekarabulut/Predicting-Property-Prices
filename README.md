@@ -1,5 +1,5 @@
 # Predicting Property Prices
-How Do Property Characteristics Influence Property Price? Multiple Linear Regression with Higher order term
+How Do Property Characteristics Influence Property Price? Multivariate Linear Regression with Higher order term
 
 This analysis investigates how the listed price of properties depends on other variables such as property size,
 age, distance to the city center, and distance to a toxic waste disposal site. Using a random sample of 83
